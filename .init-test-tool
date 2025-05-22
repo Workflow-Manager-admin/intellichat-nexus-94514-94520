@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/intellichat-nexus-94514-94520/main_container_for_intelli_chat_nexus"
+}
